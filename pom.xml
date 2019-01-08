@@ -22,6 +22,7 @@
         <module>spring_dao</module>
         <module>spring_pojo</module>
         <module>spring_service</module>
+        <module>learn-netty</module>
     </modules>
 
 
