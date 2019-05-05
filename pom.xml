@@ -23,6 +23,7 @@
         <module>spring_pojo</module>
         <module>spring_service</module>
         <module>learn-netty</module>
+        <module>design-patterm</module>
     </modules>
 
 
